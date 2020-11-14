@@ -428,7 +428,9 @@ label{
   height: 135px;
   position: relative;
   top: 129px;
-   
+}
+.freeroom span:hover{
+  opacity: 50%;
 }
 .ocupiedroom span{
   position: relative;
